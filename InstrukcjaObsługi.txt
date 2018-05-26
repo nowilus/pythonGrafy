@@ -1,0 +1,9 @@
+1. Zainstalowaæ Pythona w najnowszej wersji ze strony: https://www.python.org/downloads/.
+2. Zainstalowaæ GraphViz ze strony: https://graphviz.gitlab.io/_pages/Download/Download_windows.html oraz dodaæ do PATH odpowiedni wpis np. C:\Program Files (x86)\Graphviz2.38\bin .
+3. Zainstalowaæ modu³ SymPy ze strony: https://github.com/sympy/sympy/releases - plik sympy-1.1.1.tar.gz i wypakowaæ jego zawartoœæ do folderu z programem ProjektGraf.py .
+4. Zainstalowaæ modu³ mpmath ze strony: http://mpmath.org/ - plik mpmath-1.0.0.tar.gz i wypakowaæ jego zawartoœæ do folderu z programem ProjektGraf.py .
+5. Zainstalowaæ modu³ pillow/PIL poprzez cmd: pip install pillow znajduj¹c siê w folderze z plikiem ProjektGrafy.py .
+6. Odpaliæ program ProjektGrafy.py w cmd wchodz¹c uprzednio do œciezki gdzie on siê znajduje.
+7. Wybraæ z menu  opcjê 1 i postêpowaæ zgodnie z wyœwietlanymi komendami.
+8. Aby u³atwiæ testy polecam u¿yæ za³¹czonego pliku test.txt jako wejœciowego w trybie 1.
+9. W trybie 2 najlepiej za³¹czyæ plik wyjœciowy, które zostanie wygenerowany po przejœciu trybu 1(np. test2.txt) .
